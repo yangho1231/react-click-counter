@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.colorArrays {
+  max-width: 20vw;
+  margin: auto;
+}
+.colorArray {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.colorName {
+  font-weight: 600;
+  border-radius: 5px;
+}
